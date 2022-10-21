@@ -22,6 +22,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://www.litrane.top/posts/blog/test/)
+- [Blog](https://www.litrane.top/posts/blog/blog/)
+- [Life](https://www.litrane.top/posts/life/life/)
+- [Read](https://www.litrane.top/posts/read/read/)
+- [Tech](https://www.litrane.top/posts/tech/tech/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
