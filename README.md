@@ -6,7 +6,7 @@
 
 - 🍻 Junior at 🇨🇳 [PKU](https://www.pku.edu.cn), _Phd student in Computer Science_
 - ⚡ C++ / Go.
-- ✍️ [Blogger](https://litrane.github.io)
+- ✍️ [Blogger](http://litrane.top)
 - 🏃 Badminton
 - 🥋 Violin 
 - ♟ Go
