@@ -22,11 +22,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [GolangCheetSheet](http://blog.litrane.top/posts/tech/golangcheetsheet/)
+- [Golang编程基础](http://blog.litrane.top/posts/tech/golangstart/)
 - [Test](http://blog.litrane.top/posts/blog/test/)
 - [Blog](http://blog.litrane.top/posts/blog/blog/)
 - [Life](http://blog.litrane.top/posts/life/life/)
-- [Read](http://blog.litrane.top/posts/read/read/)
-- [Tech](http://blog.litrane.top/posts/tech/tech/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
