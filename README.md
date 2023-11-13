@@ -22,9 +22,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [windows平台测试](http://example.org/post/windows-platform-test-zg9q0u.html)
 - [First_post](http://example.org/2023/first_post/)
 - [golangCheetSheet](http://example.org/2023/golangcheetsheet/)
 - [golangStart](http://example.org/2023/golangstart/)
+- [Kubernetes集群搭建与Kubeflow安装](http://example.org/post/kubernetes-cluster-is-installed-with-kubeflow-dth0k.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>  
